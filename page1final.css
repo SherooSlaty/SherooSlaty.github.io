@@ -1,0 +1,201 @@
+.page1final-container {
+  width: 100%;
+  /* display: flex; */
+  overflow: auto;
+  min-height: 100vh;
+  /* align-items: center;
+  flex-direction: column; */
+}
+.page1final-page1final {
+  width: 100%;
+  height: 1002px;
+  /* display: flex; */
+  
+  position: relative;
+  /* align-items: flex-start;
+  flex-shrink: 0; */
+  background-color: rgba(44, 55, 90, 1);
+}
+.page1final-text {
+  /* title text */
+  display:flex; 
+  justify-content:center;
+  flex-direction: column;
+  align-items:center;
+  top: 14px;
+  color: rgba(255, 255, 255, 1);
+  /* margin-right: 15%;
+  margin-left: 15%; */
+  /* left:50%; */
+  /* transform:translateX(-50%); */
+  width: 100%;
+  height: auto;
+  position: absolute;
+  font-size: 128px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Special Elite;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1final-ellipse1 {
+  top: 8px;
+  left: 9px;
+  width: 60px;
+  height: 60px;
+  position: absolute;
+}
+.page1final-text02 {
+  /* by unknown text */
+  top: 156px;
+  left: 602px;
+  color: rgb(255, 255, 255);
+  height: auto;
+  /* position: absolute; */
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poiret One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1final-text04 {
+  /* Our thoughts title */
+  /* top: 246.9104461669922px;
+  left: 639.1295166015625px; */
+  color: rgb(255, 255, 255);
+  width: 189px;
+  height: auto;
+  position: relative;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Staatliches;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.page1final-text06 {
+  /* blurb title */
+  /* top: 225px;
+  left: 1079px; */
+  color: rgb(255, 255, 255);
+  width: 189px;
+  height: auto;
+  position: relative;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Staatliches;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1final-text08 {
+  top: 293px;
+  left: 565px;
+  color: rgba(255, 255, 255, 1);
+  width: 241px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Staatliches;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1final-rectangle11 {
+  /* top: 311px;
+  right: 94px; */
+  width: 303px;
+  height: 450px;
+  position: relative;
+  border-radius: 10px;
+}
+.page1final-rectangle12 {
+  /* top: 388px;
+  left: 563px; */
+  width: 307px;
+  height: 450px;
+  position: relative;
+  border-radius: 10px;
+}
+.page1final-text10 {
+  top: 10px;
+  left:10px;
+  color: rgb(255, 255, 255);
+  /* right: 95px; */
+  left: 40px;
+  width: auto;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poiret One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1final-text12 {
+  top: 10px;
+  left: 10px;
+  color: rgba(255, 255, 255, 1);
+  width: 295px;
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Poiret One;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.page1final-image2 {
+  /* top: 158px;
+  left: 69px; */
+  width: 342px;
+  height: 510px;
+  position: relative;
+}
+
+#left-flexbox{
+  display: flex;
+  flex-direction: column;
+}
+#right-flexbox{
+  display: flex;
+  flex-direction: column;
+}
+
+#left-textbox{
+  position:relative;
+  text-align: center;
+}
+#right-textbox{
+  position:relative;
+  text-align: center;
+  add padding top
+}
+
+#row-flexbox{
+display: flex;
+flex-direction:row;
+position:relative;
+justify-content:space-around;
+padding-top:200px;
+
+}
