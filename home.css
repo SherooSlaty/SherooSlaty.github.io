@@ -1,0 +1,231 @@
+
+.bookshtml-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .bookshtml-bookshtml {
+    width: 100%;
+    height: 843px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(44, 55, 90, 1);
+  }
+  .bookshtml-ellipse1 {
+    top: 8px;
+    left: 9px;
+    width: 60px;
+    height: 60px;
+    position: absolute;
+  }
+  .bookshtml-frame2 {
+    top: 169px;
+    left: 39px;
+    width: 217px;
+    height: 253px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .bookshtml-frame7 {
+    top: 532px;
+    left: 39px;
+    width: 217px;
+    height: 253px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .bookshtml-frame4 {
+    top: 169px;
+    left: 583px;
+    width: 217px;
+    height: 253px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .bookshtml-frame8 {
+    top: 532px;
+    left: 583px;
+    width: 217px;
+    height: 253px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .bookshtml-frame6 {
+    top: 169px;
+    left: 1126px;
+    width: 217px;
+    height: 252.99998474121094px;
+    display: flex;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .bookshtml-frame9 {
+    top: 532px;
+    left: 1127px;
+    width: 217px;
+    height: 253px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .bookshtml-image6 {
+    top: 0px;
+    left: 25px;
+    width: 169px;
+    height: 253px;
+    position: absolute;
+  }
+  .bookshtml-frame3 {
+    top: 169px;
+    left: 311px;
+    width: 217px;
+    height: 253px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .bookshtml-frame10 {
+    top: 532px;
+    left: 311px;
+    width: 217px;
+    height: 253px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .bookshtml-frame5 {
+    top: 169px;
+    left: 855px;
+    width: 217px;
+    height: 253px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .bookshtml-frame11 {
+    top: 532px;
+    left: 855px;
+    width: 217px;
+    height: 253px;
+    display: flex;
+    overflow: hidden;
+    position: absolute;
+    align-items: flex-start;
+    flex-shrink: 0;
+    background-color: rgba(255, 255, 255, 1);
+  }
+  .bookshtml-image1 {
+    top: 169px;
+    left: 64px;
+    width: 169px;
+    height: 253px;
+    position: absolute;
+  }
+  .bookshtml-image7 {
+    top: 532px;
+    left: 64px;
+    width: 169px;
+    height: 253px;
+    position: absolute;
+  }
+  .bookshtml-image2 {
+    top: 169px;
+    left: 330px;
+    width: 167px;
+    height: 253px;
+    position: absolute;
+  }
+  .bookshtml-image8 {
+    top: 532px;
+    left: 336px;
+    width: 167px;
+    height: 253px;
+    position: absolute;
+  }
+  .bookshtml-image3 {
+    top: 169px;
+    left: 609px;
+    width: 166px;
+    height: 253px;
+    position: absolute;
+  }
+  .bookshtml-image9 {
+    top: 532px;
+    left: 609px;
+    width: 166px;
+    height: 253px;
+    position: absolute;
+  }
+  .bookshtml-image5 {
+    top: 169px;
+    left: 878px;
+    width: 172px;
+    height: 253px;
+    position: absolute;
+  }
+  .bookshtml-image10 {
+    top: 532px;
+    left: 878px;
+    width: 172px;
+    height: 253px;
+    position: absolute;
+  }
+  .bookshtml-image61 {
+    top: 169px;
+    left: 1149px;
+    width: 172px;
+    height: 253px;
+    position: absolute;
+  }
+  .bookshtml-text {
+    top: 38px;
+    left: 519px;
+    color: rgba(255, 255, 255, 1);
+    width: 406px;
+    height: auto;
+    position: absolute;
+    font-size: 64px;
+    font-style: Regular;
+    text-align: center;
+    font-family: Poiret One;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
