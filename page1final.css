@@ -188,14 +188,13 @@
 #right-textbox{
   position:relative;
   text-align: center;
-  add padding top
+  /* add padding top */
 }
 
 #row-flexbox{
-display: flex;
-flex-direction:row;
-position:relative;
-justify-content:space-around;
-padding-top:200px;
-
-}
+  display: flex;
+  flex-direction:row;
+  position:relative;
+  justify-content:space-around;
+  padding-top:200px;
+  }
